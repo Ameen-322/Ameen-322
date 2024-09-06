@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ameen-322
-- 👀 I’m interested in we development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Python programming
 - 💞️ I’m looking to collaborate on sharing ideas and combining skills
 - 📫 How to reach me ... ameenullahiabiose0@gmail.com or 09045018592
