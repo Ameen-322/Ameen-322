@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python programming
 - 💞️ I’m looking to collaborate on sharing ideas and combining skills
 - 📫 How to reach me ... ameenullahiabiose0@gmail.com or 09045018592
-- 😄 Pronouns: ... I am a tudent and i am still learning
-- ⚡ Fun fact: ... I just started and u'm still a beginner
+- 😄 Pronouns: ... I am a student and i am stil learning
+- ⚡ Fun fact: ... I just started and i'm stil a beginner
 
 
 <!---
